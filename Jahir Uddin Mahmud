@@ -1,0 +1,82 @@
+<?php
+
+echo "What is the Sum of this ammounts ?". "</br>";
+
+echo "numx1 = 5000". "</br>";
+echo "numy1 = 4000". "</br>";
+echo "numz1 = 3200". "</br>";
+echo "numv1 = 2500". "</br>";
+echo "numc1 = 7000". "</br>";
+echo "nump1 = 4". "</br>";
+echo "nump2 = 6". "</br>";
+
+
+$numx1 = 5000;
+$numy1 = 4000;
+$numz1 = 3200;
+$numv1 = 2500;
+$numc1 = 7000;
+$nump1 = 4;
+$nump2 = 6;
+echo "</br>";
+
+echo "Hear we hanve done Addition of numbers.". "</br>";
+
+echo "Total Sum =  ";
+echo $numx1 + $numy1 + $numz1 + $numv1 + $numc1;
+
+
+echo "</br>";
+echo "</br>";
+
+echo  "Hear we hanve done Subtraction of numbers.". "</br>";
+
+echo "Total Sub =  ";
+echo $numx1 - $numy1 - $numz1 - $numv1 - $numc1;
+
+
+echo "</br>";
+echo "</br>";
+
+echo  "Hear we hanve done Multipliction of numbers.". "</br>";
+
+echo "Total  =  ";
+echo $numx1 * $numy1 * $numz1 * $numv1 * $numc1;
+
+
+
+echo "</br>";
+echo "</br>";
+
+echo  "Hear we hanve done Division of numbers.". "</br>";
+
+echo "Total  =  ";
+echo $numx1 / $numy1 / $numz1 / $numv1 / $numc1;
+
+
+
+echo "</br>";
+echo "</br>";
+echo "</br>";
+
+echo "Hear we Have done Modulus of number.". "</br>";
+
+echo "Total  =  ";
+echo $numx1 % $numy1 % $numz1 % $numv1 % $numc1;
+
+
+echo "</br>";
+echo "</br>";
+
+echo "Hear we Have done Exponentiation of number.". "</br>";
+
+echo "Total  =  ";
+echo $nump1 ** $nump2;
+
+echo "</br>";
+
+echo "Total  =  ";
+echo $numy1 ** $nump2;
+
+
+?>
